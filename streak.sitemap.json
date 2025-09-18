@@ -1,0 +1,142 @@
+[
+  {
+    "url": "/",
+    "renderConfig": {
+      "renderId": "defaultRenderId",
+      "metadata": {},
+      "dataHandler": "defaultDataHandler",
+      "rootLayout": "defaultRootLayout",
+      "widgets": [
+        {
+          "id": "header",
+          "type": "Header"
+        },
+        {
+          "id": "MegaMenu",
+          "type": "MegaMenu"
+        },
+        {
+          "id": "HeroBanner",
+          "type": "HeroBanner"
+        },
+        {
+          "id": "Grid4",
+          "type": "Grid4"
+        },
+        {
+          "id": "ProductsOne",
+          "type": "Products",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "ProductsTwo",
+          "type": "Products",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "ProductsLite",
+          "type": "ProductsLite",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "SingleBanner",
+          "type": "SingleBanner",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "ProductsLiteV2",
+          "type": "ProductsLiteV2",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "SeoDescription",
+          "type": "SeoDescription",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "Footer",
+          "type": "Footer",
+          "loadingStrategy": "lazy"
+        }
+      ],
+      "version": "1.0.0"
+    }
+  },
+  {
+    "url": "/en",
+    "renderConfig": {
+      "renderId": "defaultRenderId",
+      "metadata": {},
+      "dataHandler": "defaultDataHandler",
+      "rootLayout": "defaultRootLayout",
+      "widgets": [
+        {
+          "id": "header",
+          "type": "Header"
+        },
+        {
+          "id": "MegaMenu",
+          "type": "MegaMenu"
+        },
+        {
+          "id": "HeroBanner",
+          "type": "HeroBanner"
+        },
+        {
+          "id": "Grid4",
+          "type": "Grid4"
+        },
+        {
+          "id": "ProductsOne",
+          "type": "Products",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "ProductsTwo",
+          "type": "Products",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "Footer",
+          "type": "Footer",
+          "loadingStrategy": "lazy"
+        }
+      ],
+      "version": "1.0.0"
+    }
+  },
+  {
+    "url": "/ar",
+    "renderConfig": {
+      "renderId": "defaultRenderId",
+      "metadata": {},
+      "dataHandler": "defaultDataHandler",
+      "rootLayout": "defaultRootLayout",
+      "widgets": [
+        {
+          "id": "header",
+          "type": "Header"
+        },
+        {
+          "id": "MegaMenu",
+          "type": "MegaMenu"
+        },
+        {
+          "id": "HeroBanner",
+          "type": "HeroBanner"
+        },
+        {
+          "id": "SeoDescription",
+          "type": "SeoDescription",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "Footer",
+          "type": "Footer",
+          "loadingStrategy": "lazy"
+        }
+      ],
+      "version": "1.0.0"
+    }
+  }
+]
